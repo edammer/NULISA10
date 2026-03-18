@@ -26,8 +26,6 @@ The scripts are intended to be run in the following order:
 
 - `parANOVA.dex.R`  
   Differential-expression / ANOVA helper used in Script 3 and implicitly relied upon later for subtype comparisons.
-- `GOparallel-FET.R`  
-  Gene ontology / enrichment helper used in Script 3.
 - `binaryPredictor.R`  
   Machine-learning helper used in Script 5 for stage-1 feature ranking and stage-2 multiclass prediction.
 - `geneListFET.R`  
